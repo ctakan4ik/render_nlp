@@ -1,7 +1,7 @@
 Flask
 Gunicorn
 scipy
-sklearn
+scikit-learn
 seaborn
 pandas
 numpy
