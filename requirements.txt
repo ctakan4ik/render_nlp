@@ -1,3 +1,7 @@
 Flask
 Gunicorn
 scipy
+sklearn
+seaborn
+pandas
+numpy
